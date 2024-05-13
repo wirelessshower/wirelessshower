@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  indie games mkaker from Armenia.
+### - I'm 19 years  indie games maker from Armenia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/giphy.gif">
 
