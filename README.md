@@ -19,7 +19,7 @@ Aspiring .NET developer with a passion for coding and a solid foundation in prog
 
 ### - Learning :
 - 🧣 C# & ASP.NET
-- 🧣 Adobe Illustrator
+
 
 ### - Hobbies : 
 - 😈 Dota 2 🫡
