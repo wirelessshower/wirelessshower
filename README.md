@@ -63,7 +63,7 @@ Aspiring .NET developer with a passion for coding and a solid foundation in prog
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-<p algin = "Center" margin: 10px; padding: 10px;>
+<p algin = "Center" margin: 30px; padding: 20px;>
 <a href="mailto:kaktusyan.sigma@gmail.com">
  <img  alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
