@@ -70,6 +70,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://steamcommunity.com/profiles/76561199074960732/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
+<a href="https://www.linkedin.com/in/david-ghukasyan-2058822ab/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
+</a>
  </p>
  
 
