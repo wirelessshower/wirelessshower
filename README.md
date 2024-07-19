@@ -63,16 +63,17 @@ Aspiring .NET developer with a passion for coding and a solid foundation in prog
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
+<p algin = "left" margin: 10px; padding: 10px;>
 <a href="mailto:kaktusyan.sigma@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199074960732/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
-<a href="https://www.linkedin.com/in/david-ghukasyan-2058822ab/">
-  <img align="left" alt="Linkedin" margin-top: 10px; width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
+<a href="https://www.linkedin.com/in/david-ghukasyan-2058822ab/">  
+  <img align="left" alt="Linkedin"  width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
 </a>
+</p>
  </p>
  
 
