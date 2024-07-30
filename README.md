@@ -11,14 +11,13 @@
 
 # About ME 💬 :
 
-### - I'm 19 years ASP.NET developer from Armenia.
+### - I'm 19 years old Indie game developer from Armenia.
 
-Aspiring .NET developer with a passion for coding and a solid foundation in programming principles. Currently pursuing a degree in Computer Science. Eager to gain practical experience and contribute to real-world projects. Quick learner, team player, and committed to continuous growth.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/giphy.gif">
 
 ### - Learning :
-- 🧣 C# & ASP.NET
+- 🧣 Lua, love2d
 
 
 ### - Hobbies : 
