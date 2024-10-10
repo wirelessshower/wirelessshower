@@ -17,7 +17,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/giphy.gif">
 
 ### - Learning :
-- 🧣 Lua, love2d
+- 🧣 Unity
 
 
 ### - Hobbies : 
