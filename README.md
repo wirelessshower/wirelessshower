@@ -11,13 +11,13 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old Indie game developer from Armenia.
+### - I'm 19 years old Flutter developer from Armenia.
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/wirelessshower/Wirless-Shower/blob/main/Assets/giphy.gif">
 
 ### - Learning :
-- 🧣 Unity
+- 🧣 Dart, Flutter
 
 
 ### - Hobbies : 
