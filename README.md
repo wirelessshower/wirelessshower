@@ -38,7 +38,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp%402x.png" alt="CSharp" width="140" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp%402x.png" alt="CSharp" width="130" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/flutter%402x.png" alt="Flutter" width="180" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python%402x.png" alt="Python" width="180" hight="50">
 </br>
